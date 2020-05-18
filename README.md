@@ -10,11 +10,26 @@ Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
 
 ## Current Employment
 
-Currently working as an application specialist for the West Australia Enterprise Medical Imaging Project
+Currently working as an application specialist for the Western Australia Enterprise Medical Imaging Project
 
 ## Projects
 
 ```markdown
+
+[Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality)
+- running in production : Detecting imaging errors in a busy public radiology department
+
+[AGFA IMPAX Healthcheck](https://github.com/bashallc/IMPAX-Healthcheck)
+- running in production : ETL of PACS health and visualistion in Grafana Dashboards
+
+[Mutli Label Chest Xray Pathology Idenifier
+- currently being developed : Prelim reading of chest xrays with DICOMSR created with rating of observed pathologies
+
+[AGFA Xero Healthcheck]
+- currently being developed : Healthcheck of ZFP AGFA Xero dicom viewer using ChromeDriver
+
+
+
 Syntax highlighted code block
 
 # Header 1
