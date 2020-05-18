@@ -14,7 +14,7 @@ Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
 
 Currently working as an application specialist for the Western Australia Enterprise Medical Imaging Project
 
-## Projects
+## Medical Imaging Projects
 
 
 [Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality/)
@@ -32,6 +32,13 @@ AGFA Xero Healthcheck
 PACS Admin Toolkit 1.0
 - Beta Testing : PACS admin tools such as DMWL checker , API tester, DICOMweb, HL7 ORM sender + more
 
+## Other Projects
+
+[Domain Home Price Checker](https://github.com/bashallc/Domain_Home_PriceGuide)
+- Helps find the price range entered by the agent not avaliable to buyers
+
+[Stava Data Extracter](https://github.com/bashallc/Strava__to_CSV)
+- Quick script to help with ETL of Strava data via API 
 
 ## Contact
 
