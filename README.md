@@ -14,9 +14,8 @@ Currently working as an application specialist for the Western Australia Enterpr
 
 ## Projects
 
-```markdown
 
-[Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality)
+[Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality/)
 - running in production : Detecting imaging errors in a busy public radiology department
 
 [AGFA IMPAX Healthcheck](https://github.com/bashallc/IMPAX-Healthcheck)
