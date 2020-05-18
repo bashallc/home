@@ -2,10 +2,12 @@
 
 ## Bio:
 Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
+- medical imaging technologist / PACS/RIS System Admin
 - PACS/RIS/VNA/VR
 - Experience with DICOM/HL7
 - Machine Learning in tf2 now pytorch
 - Python coding
+- business analytics
 
 
 ## Current Employment
