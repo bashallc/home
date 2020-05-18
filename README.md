@@ -29,7 +29,10 @@ Mutli Label Chest Xray Pathology Idenifier
 AGFA Xero Healthcheck
 - currently being developed : Healthcheck of ZFP AGFA Xero dicom viewer using ChromeDriver
 
+PACS Admin Toolkit 1.0
+- Beta Testing : PACS admin tools such as DMWL checker , API tester, DICOMweb, HL7 ORM sender + more
+
 
 ## Contact
 
-I am interested in helping develop Medical Imaging applications in particular machine learning / data science
+I am interested in helping develop Medical Imaging applications, in particular machine learning / data science
