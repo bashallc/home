@@ -1,12 +1,18 @@
-## Chris Bashall , Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
+# Chris Bashall 
 
-You can use the [editor on GitHub](https://github.com/bashallc/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bio:
+Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
+- PACS/RIS/VNA/VR
+- Experience with DICOM/HL7
+- Machine Learning in tf2 now pytorch
+- Python coding
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Current Employment
 
 Currently working as an application specialist for the West Australia Enterprise Medical Imaging Project
+
+## Projects
 
 ```markdown
 Syntax highlighted code block
