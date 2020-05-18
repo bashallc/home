@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chris Bashall , Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
 
 You can use the [editor on GitHub](https://github.com/bashallc/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently working as an application specialist for the West Australia Enterprise Medical Imaging Project
 
 ```markdown
 Syntax highlighted code block
