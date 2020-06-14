@@ -40,6 +40,9 @@ PACS Admin Toolkit 1.0
 [Stava Data Extracter](https://github.com/bashallc/Strava__to_CSV)
 - Quick script to help with ETL of Strava data via API 
 
+[Landguide](https://github.com/bashallc/landguide)
+- A analytics driven residential land comparision website to help buyers search blocks on land on metadata
+
 ## Contact
 
 I am interested in helping develop Medical Imaging applications, in particular machine learning / data science
