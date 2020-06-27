@@ -43,11 +43,11 @@ PACS Admin Toolkit 1.0
 [Landguide](https://github.com/bashallc/landguide)
 - A analytics driven residential land comparision website to help buyers search blocks on land on metadata
 
-![Find Page](https://github.com/bashallc/home/blob/master/find.PNG)
+![Find Page](https://github.com/bashallc/home/blob/master/find.PNG =250x)
 
-![Hotspot Analytics](https://github.com/bashallc/home/blob/master/hostspot.PNG)
+![Hotspot Analytics](https://github.com/bashallc/home/blob/master/hostspot.PNG =250x)
 
-![Block Page](https://github.com/bashallc/home/blob/master/block.PNG)
+![Block Page](https://github.com/bashallc/home/blob/master/block.PNG =250x)
 
 ## Contact
 
