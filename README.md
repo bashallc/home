@@ -2,9 +2,9 @@
 
 ## Bio:
 Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
-- medical imaging technologist / PACS/RIS System Admin
+Snr Application Specialist @ HSS, Perth, WA, Australia
 - PACS/RIS/VNA/VR
-- Experience with DICOM/HL7
+- Experience with DICOM/HL7/DICOMweb
 - Machine Learning in tf2 now pytorch
 - Python coding
 - business analytics
@@ -15,7 +15,6 @@ Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
 Currently working as an application specialist for the Western Australia Enterprise Medical Imaging Project
 
 ## Medical Imaging Projects
-
 
 [Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality/)
 - running in production : Detecting imaging errors in a busy public radiology department
@@ -31,6 +30,13 @@ AGFA Xero Healthcheck
 
 PACS Admin Toolkit 1.0
 - Beta Testing : PACS admin tools such as DMWL checker , API tester, DICOMweb, HL7 ORM sender + more
+
+[Utilization of Kanban Boards for PACS / RIS Administrator Teams](https://siim.org/resource/resmgr/siim2019/posters/Utilization_of_Kanban_Boards.pdf)
+- Scientific Poster Presentation @ SIIM 2019 , Denver, CO , USA
+
+[Considerations for Exchanging and Sharing Medical Images](https://link.springer.com/article/10.1007/s10278-016-9885-x)
+- Considerations for Exchanging and Sharing Medical Images for Improved Collaboration and Patient Care: HIMSS-SIIM Collaborative White Paper , June 2016
+
 
 ## Other Projects
 
