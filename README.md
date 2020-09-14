@@ -1,6 +1,6 @@
 # Chris Bashall 
 
-## Bio:
+## Bio
 Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
 Snr Application Specialist @ HSS, Perth, WA, Australia
 - PACS/RIS/VNA/VR
