@@ -22,6 +22,9 @@ Currently working as an application specialist for the Western Australia Enterpr
 [AGFA IMPAX Healthcheck](https://github.com/bashallc/IMPAX-Healthcheck)
 - running in production : ETL of PACS health and visualistion in Grafana Dashboards
 
+[Microsoft Medical Imaging DICOM Server Tools](https://github.com/bashallc/DICOMWEB-MS-Medical-Imaging)
+- running in test : Docker version of Microsoft Medical Imaging Server locally hosted - DicomWEB Tools
+
 Mutli Label Chest Xray Pathology Idenifier
 - currently being developed : Prelim reading of chest xrays with DICOMSR created with rating of observed pathologies
 
