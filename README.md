@@ -17,10 +17,13 @@ Currently working as an application specialist for the Western Australia Enterpr
 ## Medical Imaging Projects
 
 [Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality/)
-- running in production : Detecting imaging errors in a busy public radiology department
+- running in production : Detecting imaging errors in a busy public radiology department. Built originally on TF but being migrated to pytorch
 
 [AGFA IMPAX Healthcheck](https://github.com/bashallc/IMPAX-Healthcheck)
 - running in production : ETL of PACS health and visualistion in Grafana Dashboards
+
+AGFA IMPAX Performance Metrics
+- running in production : ETL of loading/viewing of images on IMPAX cient and expanding on current ianalyze functionality
 
 [Microsoft Medical Imaging DICOM Server Tools](https://github.com/bashallc/DICOMWEB-MS-Medical-Imaging)
 - running in test : Docker version of Microsoft Medical Imaging Server locally hosted - DicomWEB Tools
