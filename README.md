@@ -19,6 +19,9 @@ Currently working as an application specialist for the Western Australia Enterpr
 [Laterality Xray Error Detection](https://github.com/bashallc/ML_Laterality/)
 - running in production : Detecting imaging errors in a busy public radiology department. Built originally on TF but being migrated to pytorch
 
+[PowerScribe360 Custom Field](https://github.com/bashallc/PyPowerScribe)
+- currently being developed: Pass data into radiologist report via API
+
 [AGFA IMPAX Healthcheck](https://github.com/bashallc/IMPAX-Healthcheck)
 - running in production : ETL of PACS health and visualistion in Grafana Dashboards
 
