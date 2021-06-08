@@ -2,8 +2,10 @@
 
 ## Bio
 Pre Sale Solutions Architect @ Annalise ai
+
 Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
-~~Snr Application Specialist @ HSS, Perth, WA, Australia``
+
+Previous  - Snr Application Specialist @ HSS, Perth, WA, Australia``
 - PACS/RIS/VNA/VR
 - Experience with DICOM/HL7/DICOMweb
 - Machine Learning in tf2 now pytorch
