@@ -1,6 +1,6 @@
 # Chris Bashall 
 
-## Skills interest
+## Skills and Interests
 
 PACS/RIS/VNA/VR
 - Experience with DICOM/HL7/DICOMweb
