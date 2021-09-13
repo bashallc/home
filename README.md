@@ -1,21 +1,25 @@
 # Chris Bashall 
 
-## Bio
-Pre Sale Solutions Architect @ Annalise ai
+## Skills interest
 
-Imaging Informatics @ Sir Charles Gairdner Hospital , WA , Australia
-
-Previous  - Snr Application Specialist @ HSS, Perth, WA, Australia``
-- PACS/RIS/VNA/VR
+PACS/RIS/VNA/VR
 - Experience with DICOM/HL7/DICOMweb
 - Machine Learning in tf2 now pytorch
-- Python coding
+- Python
 - business analytics
+
+## Previous Employment
+
+
+- Supervising PACS/RIS Systems Admin @ Sir Charles Gairdner Hospital , WA , Australia
+- Clinical Solutions Architect  @ HSS, Perth, WA, Australia
+- Medical Imaaging Techologist @ Sir Charles Gairdner Hospital , WA , Australia
+
 
 
 ## Current Employment
 
-Currently working as an application specialist for the Western Australia Enterprise Medical Imaging Project
+Lead Pre-Sale Solutions Architect @ Annalise ai
 
 ## Medical Imaging Projects
 
@@ -38,7 +42,7 @@ Mutli Label Chest Xray Pathology Idenifier
 - currently being developed : Prelim reading of chest xrays with DICOMSR created with rating of observed pathologies
 
 AGFA Xero Healthcheck
-- currently being developed : Healthcheck of ZFP AGFA Xero dicom viewer using ChromeDriver
+- running in production : Healthcheck of ZFP AGFA Xero dicom viewer using ChromeDriver
 
 PACS Admin Toolkit 1.0
 - Beta Testing : PACS admin tools such as DMWL checker , API tester, DICOMweb, HL7 ORM sender + more
