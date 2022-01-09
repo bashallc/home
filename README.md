@@ -10,7 +10,7 @@ PACS/RIS/VNA/VR
 
 ## Previous Employment
 
-
+- Lead Pre-Sale Solutions Architect @ Annalise ai
 - Supervising PACS/RIS Systems Admin @ Sir Charles Gairdner Hospital , WA , Australia
 - Clinical Solutions Architect  @ HSS, Perth, WA, Australia
 - Medical Imaaging Techologist @ Sir Charles Gairdner Hospital , WA , Australia
@@ -19,7 +19,7 @@ PACS/RIS/VNA/VR
 
 ## Current Employment
 
-Lead Pre-Sale Solutions Architect @ Annalise ai
+Client Technology Lead | Healthcare and Human Services @ Microsoft
 
 ## Medical Imaging Projects
 
