@@ -8,6 +8,12 @@ PACS/RIS/VNA/VR
 - Python
 - business analytics
 
+
+
+## Current Employment
+
+Client Technology Lead | Healthcare and Human Services @ Microsoft, WA , Australia
+
 ## Previous Employment
 
 - Lead Pre-Sale Solutions Architect @ Annalise ai
@@ -16,10 +22,6 @@ PACS/RIS/VNA/VR
 - Medical Imaaging Techologist @ Sir Charles Gairdner Hospital , WA , Australia
 
 
-
-## Current Employment
-
-Client Technology Lead | Healthcare and Human Services @ Microsoft
 
 ## Medical Imaging Projects
 
